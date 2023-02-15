@@ -11,7 +11,30 @@ Uma versão na Web que eu fiz do famoso jogo de terror [Five Nights at Freddy's]
 ## VERSION 3.0 ⭐
 - Added custom night!
 
+~ Link: [https://wesleytntreal9.github.io/FNAF_Crazy_Night/](https://wesleytntreal9.github.io/FNAF_Crazy_Night/)
+
 ![Five Nights at Freddy's](FNAF.webp)
 
+## Installation
 
-Play Here: https://wesleytntreal9.github.io/FNAF_Crazy_Night/
+First you need to clone this repository
+
+```
+git clone https://github.com/wellsousaaa/Five-Nights-at-Freddys-Web.git
+```
+
+Then start it using npm or yarn
+
+```
+npm install
+```
+
+Then start localhost
+
+```
+npm start
+```
+
+## Credits
+
+This project was orignal made by Wendell Sousa
