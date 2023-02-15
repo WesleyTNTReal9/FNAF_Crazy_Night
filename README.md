@@ -14,3 +14,4 @@ Uma versão na Web que eu fiz do famoso jogo de terror [Five Nights at Freddy's]
 ![Five Nights at Freddy's](FNAF.webp)
 
 
+Play Here: https://wesleytntreal9.github.io/FNAF_Crazy_Night/
