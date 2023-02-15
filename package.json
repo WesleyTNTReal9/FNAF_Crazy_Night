@@ -1,7 +1,7 @@
 {
   "name": "FNAF",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://wesleytntreal9.github.io/FNAF_Crazy_Night/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
